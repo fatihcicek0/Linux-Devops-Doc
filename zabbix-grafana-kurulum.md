@@ -1,4 +1,4 @@
-# Zabbix ve Grafana Kurulumu deneme emri
+# Zabbix ve Grafana Kurulumu
 ## İçindekiler
 - ### Zabbix 
    - [İndirme](#indirme)
